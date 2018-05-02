@@ -1,0 +1,18 @@
+﻿<updates>
+	<update>
+		<name>Table Maker for CSV</name>
+		<description>A module to create html table for CSV file</description>
+		<element>mod_tablemakerforcsv</element>
+		<type>module</type>
+		<version>1.0</version>
+		<infourl title="Table Maker for CSV">https://github.com/mostafa272/TableMakerforCSV/issues/1</infourl>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/mostafa272/TableMakerforCSV/files/1966903/mod_tablemakerforcsv.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<targetplatform name="joomla" version="3.[234567]" />
+		<php_minimum>5.3.10</php_minimum>
+	</update>
+</updates>
