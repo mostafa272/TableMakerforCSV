@@ -7,7 +7,19 @@ Download mod_tablemakerforcsv[x].zip file and install it in Joomla. If you downl
 ## The extension page at JED (Joomla Extensions Directory)                                         
 
 To vote or write a review, please visit following link:                           
-https://extensions.joomla.org/extensions/extension/news-display/tables-a-lists/table-maker-for-csv/
+https://extensions.joomla.org/extensions/extension/news-display/tables-a-lists/table-maker-for-csv/          
+
+## Demo              
+
+https://github.com/mostafa272/TableMakerforCSV/wiki/Demo                            
+              
+              
+## Documentation                 
+
+Read more about this module:
+
+https://github.com/mostafa272/TableMakerforCSV/wiki/Documentation                          
+                      
 
 ## Donate to support us                                          
                                                                    
