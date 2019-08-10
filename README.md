@@ -21,7 +21,7 @@ Read more about this module:
 https://github.com/mostafa272/TableMakerforCSV/wiki/Documentation                          
                       
 
-## Donate to support us                 
+## Buy me a coffee                
 
 **Paypal:**                
 
