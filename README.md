@@ -21,14 +21,8 @@ Read more about this module:
 https://github.com/mostafa272/TableMakerforCSV/wiki/Documentation                          
                       
 
-## Buy me a coffee                
+## Buy me a coffee for us                         
 
-**Paypal:**                
+https://ko-fi.com/mostafashahiri                       
 
-https://paypal.me/MShahiri                  
 
-**Bitcoin:**                
-                                                                   
-[![Donate with Bitcoin](https://en.cryptobadges.io/badge/small/16f1DStB3YG3R4BMTa1zGYRxN9i7FAqtUX)](https://en.cryptobadges.io/donate/16f1DStB3YG3R4BMTa1zGYRxN9i7FAqtUX)
-                                                   
-  [![Donate with Bitcoin](https://en.cryptobadges.io/badge/big/16f1DStB3YG3R4BMTa1zGYRxN9i7FAqtUX)](https://en.cryptobadges.io/donate/16f1DStB3YG3R4BMTa1zGYRxN9i7FAqtUX)
