@@ -21,8 +21,8 @@ Read more about this module:
 https://github.com/mostafa272/TableMakerforCSV/wiki/Documentation                          
                       
 
-## Buy me a coffee for us                         
-
+## Donate                        
+Buy me a coffee for us                         
 https://ko-fi.com/mostafashahiri                       
 
 
