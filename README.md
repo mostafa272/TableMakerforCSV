@@ -24,5 +24,5 @@ https://github.com/mostafa272/TableMakerforCSV/wiki/Documentation
 ## Donate                        
 Buy me a coffee for us                         
 https://ko-fi.com/mostafashahiri                       
-
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O311089)
 
